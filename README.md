@@ -1,2 +1,3 @@
-# epam_Calculator
-Calculator using java to demostrate design principles
+# EPAM_Calculator
+
+Calculator using java to demonstrate design principles
